@@ -1,11 +1,11 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { Group } from '@/lib/types';
 import { MarksData } from '@/lib/types';
 
-export default function FacultyHeadPage() {
+function FacultyHeadContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const name = searchParams.get('name') || '';
@@ -165,6 +165,18 @@ export default function FacultyHeadPage() {
         )}
       </div>
     </div>
+  );
+}
+
+export default function FacultyHeadPage() {
+  return (
+    <Suspense fallback={
+      <div className="flex min-h-screen items-center justify-center" style={{ background: 'linear-gradient(135deg, #F5F0FF 0%, #E6D9F5 50%, #F0E6FF 100%)' }}>
+        <div className="text-xl" style={{ color: '#9674B8' }}>Loading...</div>
+      </div>
+    }>
+      <FacultyHeadContent />
+    </Suspense>
   );
 }
 

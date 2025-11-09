@@ -1,10 +1,10 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { Group, Student } from '@/lib/types';
 
-export default function TeacherPage() {
+function TeacherContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const teacherName = searchParams.get('name') || '';
@@ -243,6 +243,18 @@ export default function TeacherPage() {
         )}
       </div>
     </div>
+  );
+}
+
+export default function TeacherPage() {
+  return (
+    <Suspense fallback={
+      <div className="flex min-h-screen items-center justify-center" style={{ background: 'linear-gradient(135deg, #F5F0FF 0%, #E6D9F5 50%, #F0E6FF 100%)' }}>
+        <div className="text-xl" style={{ color: '#9674B8' }}>Loading...</div>
+      </div>
+    }>
+      <TeacherContent />
+    </Suspense>
   );
 }
 
