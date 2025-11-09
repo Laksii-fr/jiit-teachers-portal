@@ -1,0 +1,1856 @@
+[
+  {
+    "gid": 1,
+    "students": [
+      {
+        "enrollmentNumber": "9923103236",
+        "name": "Anant Bhardwaj"
+      },
+      {
+        "enrollmentNumber": "9923103165",
+        "name": "Aryan Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103209",
+        "name": "Ishan Saraswat"
+      }
+    ],
+    "facultyMentor": "Aakriti"
+  },
+  {
+    "gid": 2,
+    "students": [
+      {
+        "enrollmentNumber": "9923103090",
+        "name": "Prashant Singh Khatri"
+      },
+      {
+        "enrollmentNumber": "9923103089",
+        "name": "Utkarsh Chauhan"
+      },
+      {
+        "enrollmentNumber": "9923103157",
+        "name": "Vivek Kumar"
+      }
+    ],
+    "facultyMentor": "Aakriti"
+  },
+  {
+    "gid": 3,
+    "students": [
+      {
+        "enrollmentNumber": "9923103268",
+        "name": "kuldeep yadav"
+      },
+      {
+        "enrollmentNumber": "9923103270",
+        "name": "Manya Goel"
+      },
+      {
+        "enrollmentNumber": "9923103276",
+        "name": "Vanshika Garg"
+      }
+    ],
+    "facultyMentor": "Aditi Priya"
+  },
+  {
+    "gid": 4,
+    "students": [
+      {
+        "enrollmentNumber": "9923103269",
+        "name": "Shubham Singhal"
+      },
+      {
+        "enrollmentNumber": "9923103007",
+        "name": "Bhavya Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103314",
+        "name": "Lakshya Saini"
+      }
+    ],
+    "facultyMentor": "Aditi Priya"
+  },
+  {
+    "gid": 5,
+    "students": [
+      {
+        "enrollmentNumber": "9923103145",
+        "name": "Hemant Kumar Jha"
+      },
+      {
+        "enrollmentNumber": "9923103189",
+        "name": "Ayushman Mishra"
+      },
+      {
+        "enrollmentNumber": "9923103139",
+        "name": "Utkarsh Saxena"
+      }
+    ],
+    "facultyMentor": "Aditi Sharma"
+  },
+  {
+    "gid": 6,
+    "students": [
+      {
+        "enrollmentNumber": "9923103173",
+        "name": "Shreshtha Singhal"
+      },
+      {
+        "enrollmentNumber": "9923103014",
+        "name": "Isha Tiwari"
+      },
+      {
+        "enrollmentNumber": "9923103083",
+        "name": "Amulya Kaushik"
+      }
+    ],
+    "facultyMentor": "Aditi Sharma "
+  },
+  {
+    "gid": 7,
+    "students": [
+      {
+        "enrollmentNumber": "9923103046",
+        "name": "Aryan Jain"
+      },
+      {
+        "enrollmentNumber": "9923103056",
+        "name": "Astha Bansal"
+      },
+      {
+        "enrollmentNumber": "9923103039",
+        "name": "Pragya Varshney"
+      }
+    ],
+    "facultyMentor": "Akanksha Mehndiratta"
+  },
+  {
+    "gid": 8,
+    "students": [
+      {
+        "enrollmentNumber": "9923103291",
+        "name": "Swain Mishra"
+      },
+      {
+        "enrollmentNumber": "9923103322",
+        "name": "Uday Gangal"
+      },
+      {
+        "enrollmentNumber": "9923103310",
+        "name": "Shikhar Misra"
+      }
+    ],
+    "facultyMentor": "Akanksha Mehndiratta"
+  },
+  {
+    "gid": 9,
+    "students": [
+      {
+        "enrollmentNumber": "9923103219",
+        "name": "Vineet Tehlan"
+      },
+      {
+        "enrollmentNumber": "9923103042",
+        "name": "Priyansh Singh Tanwar"
+      },
+      {
+        "enrollmentNumber": "9923103229",
+        "name": "Shreya Goswami"
+      }
+    ],
+    "facultyMentor": "Akansha Singh"
+  },
+  {
+    "gid": 10,
+    "students": [
+      {
+        "enrollmentNumber": "9923103019",
+        "name": "Bhavya Sanghavi"
+      },
+      {
+        "enrollmentNumber": "9923103261",
+        "name": "Divyash Pratap SIngh"
+      },
+      {
+        "enrollmentNumber": "9923103027",
+        "name": "Rishabh Chettiar"
+      }
+    ],
+    "facultyMentor": "Akansha Singh"
+  },
+  {
+    "gid": 11,
+    "students": [
+      {
+        "enrollmentNumber": "9923103213",
+        "name": "Niyati"
+      },
+      {
+        "enrollmentNumber": "9923103195",
+        "name": "Om Jadoun"
+      },
+      {
+        "enrollmentNumber": "9923103201",
+        "name": "Ojas Tayal"
+      }
+    ],
+    "facultyMentor": "Ambalika Sarkar"
+  },
+  {
+    "gid": 12,
+    "students": [
+      {
+        "enrollmentNumber": "9923103169",
+        "name": "Saurabh kumar"
+      },
+      {
+        "enrollmentNumber": "9923103170",
+        "name": "Aditya Singh"
+      },
+      {
+        "enrollmentNumber": "9923103188",
+        "name": "Prajjwal Arya"
+      }
+    ],
+    "facultyMentor": "Ambalika sarkar "
+  },
+  {
+    "gid": 13,
+    "students": [
+      {
+        "enrollmentNumber": "9923103266",
+        "name": "Kabeer Sachdev"
+      },
+      {
+        "enrollmentNumber": "9923103256",
+        "name": "Yashi Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103233",
+        "name": "Shoubhik Ghosh"
+      }
+    ],
+    "facultyMentor": "Ankit"
+  },
+  {
+    "gid": 14,
+    "students": [
+      {
+        "enrollmentNumber": "9923103318",
+        "name": "Mustafa Khurram"
+      },
+      {
+        "enrollmentNumber": "9923103074",
+        "name": "Ritambhara Aggarwal"
+      },
+      {
+        "enrollmentNumber": "9923103047",
+        "name": "Prabhat Kumar Yadav"
+      }
+    ],
+    "facultyMentor": "Ankit"
+  },
+  {
+    "gid": 15,
+    "students": [
+      {
+        "enrollmentNumber": "9923103158",
+        "name": "Soumya Khandelwal"
+      },
+      {
+        "enrollmentNumber": "9923103153",
+        "name": "Naman Agrawal"
+      },
+      {
+        "enrollmentNumber": "9923103150",
+        "name": "Somya Porwal"
+      }
+    ],
+    "facultyMentor": "Anshul"
+  },
+  {
+    "gid": 16,
+    "students": [
+      {
+        "enrollmentNumber": "9923103245",
+        "name": "Ishita verma"
+      },
+      {
+        "enrollmentNumber": "9923103246",
+        "name": "Pradumn Sanadhya"
+      },
+      {
+        "enrollmentNumber": "9923103254",
+        "name": "Tanisha srivastava"
+      }
+    ],
+    "facultyMentor": "Anshul"
+  },
+  {
+    "gid": 17,
+    "students": [
+      {
+        "enrollmentNumber": "9923103055",
+        "name": "Kush verma"
+      },
+      {
+        "enrollmentNumber": "9923103290",
+        "name": "Homi Nakra"
+      },
+      {
+        "enrollmentNumber": "9923103040",
+        "name": "Utkarsh Agarwal"
+      }
+    ],
+    "facultyMentor": "Anubhuti Mohindra"
+  },
+  {
+    "gid": 18,
+    "students": [
+      {
+        "enrollmentNumber": "9923103010",
+        "name": "Aanya Singhal"
+      },
+      {
+        "enrollmentNumber": "9923103022",
+        "name": "Ishita singh"
+      },
+      {
+        "enrollmentNumber": "9923103017",
+        "name": "Nandini mittal"
+      }
+    ],
+    "facultyMentor": "Anubhuti Mohindra"
+  },
+  {
+    "gid": 19,
+    "students": [
+      {
+        "enrollmentNumber": "9923103141",
+        "name": "Anubhav Chaudhary"
+      },
+      {
+        "enrollmentNumber": "9923103080",
+        "name": "Vishant Chaudhary"
+      },
+      {
+        "enrollmentNumber": "9923103058",
+        "name": "yash"
+      }
+    ],
+    "facultyMentor": "Arti jain"
+  },
+  {
+    "gid": 20,
+    "students": [
+      {
+        "enrollmentNumber": "9923103228",
+        "name": "SUJAL BANSAL"
+      },
+      {
+        "enrollmentNumber": "9923103259",
+        "name": "Aniket Kumar Rai"
+      },
+      {
+        "enrollmentNumber": "9923103238",
+        "name": "Puru Kumar"
+      }
+    ],
+    "facultyMentor": "Arti Jain"
+  },
+  {
+    "gid": 21,
+    "students": [
+      {
+        "enrollmentNumber": "9923103239",
+        "name": "Animesh Kumar Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103297",
+        "name": "Rishabh Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103298",
+        "name": "Ayush Prasad"
+      }
+    ],
+    "facultyMentor": "Ashish Kumar"
+  },
+  {
+    "gid": 22,
+    "students": [
+      {
+        "enrollmentNumber": "9923103208",
+        "name": "Lakshya Jain"
+      },
+      {
+        "enrollmentNumber": "9923103198",
+        "name": "Tarun Bansal"
+      },
+      {
+        "enrollmentNumber": "9923103210",
+        "name": "Priti Sarkar"
+      }
+    ],
+    "facultyMentor": "Ashish Kumar"
+  },
+  {
+    "gid": 23,
+    "students": [
+      {
+        "enrollmentNumber": "9923103118",
+        "name": "Vansh"
+      },
+      {
+        "enrollmentNumber": "9923103144",
+        "name": "Ananyoadhikary"
+      },
+      {
+        "enrollmentNumber": "9923103078",
+        "name": "Krishnika Goel"
+      }
+    ],
+    "facultyMentor": "Ayushi Pandey"
+  },
+  {
+    "gid": 24,
+    "students": [
+      {
+        "enrollmentNumber": "9923103231",
+        "name": "Gaurav Mehta"
+      },
+      {
+        "enrollmentNumber": "9923103038",
+        "name": "Elina Jain"
+      },
+      {
+        "enrollmentNumber": "9923103223",
+        "name": "Vanshika Rajput"
+      }
+    ],
+    "facultyMentor": "Ayushi pandey"
+  },
+  {
+    "gid": 25,
+    "students": [
+      {
+        "enrollmentNumber": "9923103312",
+        "name": "Aditya Jain"
+      },
+      {
+        "enrollmentNumber": "9923103308",
+        "name": "Daksh chauhan"
+      },
+      {
+        "enrollmentNumber": "9923103307",
+        "name": "Harshit kaushik"
+      }
+    ],
+    "facultyMentor": "Deepti singh"
+  },
+  {
+    "gid": 26,
+    "students": [
+      {
+        "enrollmentNumber": "9923103026",
+        "name": "Tanmay Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103025",
+        "name": "Aman Luthra"
+      },
+      {
+        "enrollmentNumber": "9923103227",
+        "name": "Palak mathur"
+      }
+    ],
+    "facultyMentor": "Deepti Singh "
+  },
+  {
+    "gid": 27,
+    "students": [
+      {
+        "enrollmentNumber": "9923103071",
+        "name": "Keshav kumar"
+      },
+      {
+        "enrollmentNumber": "9923103085",
+        "name": "Hardik tyagi"
+      },
+      {
+        "enrollmentNumber": "9923103094",
+        "name": "Akshit sharma"
+      }
+    ],
+    "facultyMentor": "Devpriya Soni"
+  },
+  {
+    "gid": 28,
+    "students": [
+      {
+        "enrollmentNumber": "9923103249",
+        "name": "Mridul Singh"
+      },
+      {
+        "enrollmentNumber": "9923103244",
+        "name": "Devansh Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103257",
+        "name": "Tanish Rajpoot"
+      }
+    ],
+    "facultyMentor": "Devpriya Soni"
+  },
+  {
+    "gid": 29,
+    "students": [
+      {
+        "enrollmentNumber": "9923103147",
+        "name": "Chetanya Teotia"
+      },
+      {
+        "enrollmentNumber": "9923103284",
+        "name": "Akshhat garg"
+      },
+      {
+        "enrollmentNumber": "9923103288",
+        "name": "Manraj singh"
+      }
+    ],
+    "facultyMentor": "Dhruv Garg"
+  },
+  {
+    "gid": 30,
+    "students": [
+      {
+        "enrollmentNumber": "9923103057",
+        "name": "Vaibhavi kansal"
+      },
+      {
+        "enrollmentNumber": "9922103035",
+        "name": "Ananya arora"
+      },
+      {
+        "enrollmentNumber": "9923103048",
+        "name": "Pawni jain"
+      }
+    ],
+    "facultyMentor": "Gaurav kumar nigam"
+  },
+  {
+    "gid": 31,
+    "students": [
+      {
+        "enrollmentNumber": "9923103093",
+        "name": "Neha Dalmia"
+      },
+      {
+        "enrollmentNumber": "9923103079",
+        "name": "Divya Agarwal"
+      },
+      {
+        "enrollmentNumber": "9923103108",
+        "name": "Manisha Srivastava"
+      }
+    ],
+    "facultyMentor": "Gaurav Nigam"
+  },
+  {
+    "gid": 32,
+    "students": [
+      {
+        "enrollmentNumber": "9923103138",
+        "name": "Shobhan panda"
+      },
+      {
+        "enrollmentNumber": "9923103123",
+        "name": "Sanyam jindal"
+      },
+      {
+        "enrollmentNumber": "9923103134",
+        "name": "Abhyansh Sinha"
+      }
+    ],
+    "facultyMentor": "Gaurav Sinha"
+  },
+  {
+    "gid": 33,
+    "students": [
+      {
+        "enrollmentNumber": "9923103255",
+        "name": "Gunaj Chugh"
+      },
+      {
+        "enrollmentNumber": "9923103258",
+        "name": "Parth Tiwari"
+      },
+      {
+        "enrollmentNumber": "9923103250",
+        "name": "Brinda Gupta"
+      }
+    ],
+    "facultyMentor": "Gaurav Sinha"
+  },
+  {
+    "gid": 34,
+    "students": [
+      {
+        "enrollmentNumber": "9923103294",
+        "name": "Sanyam Jain"
+      },
+      {
+        "enrollmentNumber": "9923103295",
+        "name": "Aarushi Singh"
+      },
+      {
+        "enrollmentNumber": "9923103296",
+        "name": "Yugal Gahlout"
+      }
+    ],
+    "facultyMentor": "Himani Bansal"
+  },
+  {
+    "gid": 35,
+    "students": [
+      {
+        "enrollmentNumber": "9923103167",
+        "name": "Shaurya Rahlon"
+      },
+      {
+        "enrollmentNumber": "9923103175",
+        "name": "Himanshu Singh"
+      },
+      {
+        "enrollmentNumber": "9923103176",
+        "name": "Vansh Arora"
+      }
+    ],
+    "facultyMentor": "Himani Bansal"
+  },
+  {
+    "gid": 36,
+    "students": [
+      {
+        "enrollmentNumber": "9923103203",
+        "name": "Harshil Jain"
+      },
+      {
+        "enrollmentNumber": "9923103204",
+        "name": "Gauri Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103200",
+        "name": "Kratika Tekwani"
+      }
+    ],
+    "facultyMentor": "Himanshu Agrawal"
+  },
+  {
+    "gid": 37,
+    "students": [
+      {
+        "enrollmentNumber": "9923103075",
+        "name": "Riya Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103002",
+        "name": "Shaunish Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103160",
+        "name": "Hannah Mushtaque"
+      }
+    ],
+    "facultyMentor": "Himanshu Agrawal"
+  },
+  {
+    "gid": 38,
+    "students": [
+      {
+        "enrollmentNumber": "9923103003",
+        "name": "Ayush Bajpai"
+      },
+      {
+        "enrollmentNumber": "9923103034",
+        "name": "Siddharth Singh"
+      },
+      {
+        "enrollmentNumber": "9923103050",
+        "name": "Aditya Tiwari"
+      }
+    ],
+    "facultyMentor": "Himika Verma"
+  },
+  {
+    "gid": 39,
+    "students": [
+      {
+        "enrollmentNumber": "9923103323",
+        "name": "Arav Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103319",
+        "name": "Vedank Singh Kirola"
+      },
+      {
+        "enrollmentNumber": "9923103303",
+        "name": "Aditya Sharma"
+      }
+    ],
+    "facultyMentor": "Himika Verma"
+  },
+  {
+    "gid": 40,
+    "students": [
+      {
+        "enrollmentNumber": "9923103172",
+        "name": "Priyanshu Saklani"
+      },
+      {
+        "enrollmentNumber": "9923103008",
+        "name": "Rajeev Karakoti"
+      },
+      {
+        "enrollmentNumber": "9923103001",
+        "name": "Prasanna godiyal"
+      }
+    ],
+    "facultyMentor": "Ila Naqvi"
+  },
+  {
+    "gid": 41,
+    "students": [
+      {
+        "enrollmentNumber": "9923103214",
+        "name": "Shivank Yadav"
+      },
+      {
+        "enrollmentNumber": "9923103215",
+        "name": "Tanya Chauhan"
+      },
+      {
+        "enrollmentNumber": "9923103292",
+        "name": "Jheel Asati"
+      }
+    ],
+    "facultyMentor": "Ila Naqvi"
+  },
+  {
+    "gid": 42,
+    "students": [
+      {
+        "enrollmentNumber": "9923103146",
+        "name": "Utkarsh Pandey"
+      },
+      {
+        "enrollmentNumber": "9923103287",
+        "name": "Kartik Passricha"
+      },
+      {
+        "enrollmentNumber": "9923103271",
+        "name": "Chandrima Nath"
+      }
+    ],
+    "facultyMentor": "Janardan Verma"
+  },
+  {
+    "gid": 43,
+    "students": [
+      {
+        "enrollmentNumber": "9923103132",
+        "name": "Raghvendra Singh Shaktawat"
+      },
+      {
+        "enrollmentNumber": "9923103252",
+        "name": "Avi Srivastava"
+      },
+      {
+        "enrollmentNumber": "9923103183",
+        "name": "Sarthak Agarwal"
+      }
+    ],
+    "facultyMentor": "Janardan Verma "
+  },
+  {
+    "gid": 44,
+    "students": [
+      {
+        "enrollmentNumber": "9923103251",
+        "name": "Abhijeet Sirohi"
+      },
+      {
+        "enrollmentNumber": "9923103253",
+        "name": "Divesh Kumar"
+      },
+      {
+        "enrollmentNumber": "9923103260",
+        "name": "Rohit Mondal"
+      }
+    ],
+    "facultyMentor": "Jyoti Rani"
+  },
+  {
+    "gid": 45,
+    "students": [
+      {
+        "enrollmentNumber": "9923103243",
+        "name": "Garv Madan"
+      },
+      {
+        "enrollmentNumber": "9923103130",
+        "name": "Ananya Dwivedi"
+      },
+      {
+        "enrollmentNumber": "9923103129",
+        "name": "Akarsha Agarwal"
+      }
+    ],
+    "facultyMentor": "Jyoti Rani"
+  },
+  {
+    "gid": 46,
+    "students": [
+      {
+        "enrollmentNumber": "9923103286",
+        "name": "Aryan Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103149",
+        "name": "Souryapriya Choudhury"
+      },
+      {
+        "enrollmentNumber": "9923103156",
+        "name": "Shelly Kaushik"
+      }
+    ],
+    "facultyMentor": "Jyoti Singh"
+  },
+  {
+    "gid": 47,
+    "students": [
+      {
+        "enrollmentNumber": "9923103044",
+        "name": "Pratham Arora"
+      },
+      {
+        "enrollmentNumber": "9923103030",
+        "name": "Aryan Sethi"
+      },
+      {
+        "enrollmentNumber": "9923103052",
+        "name": "Suvraaj Nandwani"
+      }
+    ],
+    "facultyMentor": "Kashish Mahajan"
+  },
+  {
+    "gid": 48,
+    "students": [
+      {
+        "enrollmentNumber": "9923103127",
+        "name": "Saksham Sooden"
+      },
+      {
+        "enrollmentNumber": "9923103128",
+        "name": "Isha Shukla"
+      },
+      {
+        "enrollmentNumber": "9923103140",
+        "name": "Ansh Aghi"
+      }
+    ],
+    "facultyMentor": "Kedar Nath Singh"
+  },
+  {
+    "gid": 49,
+    "students": [
+      {
+        "enrollmentNumber": "9923103122",
+        "name": "Deepanshu Bhalia"
+      },
+      {
+        "enrollmentNumber": "9923103117",
+        "name": "Devanshi Srivastava"
+      },
+      {
+        "enrollmentNumber": "9923103124",
+        "name": "Raunak Kheshwani"
+      }
+    ],
+    "facultyMentor": "Kedar Nath Singh"
+  },
+  {
+    "gid": 50,
+    "students": [
+      {
+        "enrollmentNumber": "9923103221",
+        "name": "Abhay Bansal"
+      },
+      {
+        "enrollmentNumber": "9923103222",
+        "name": "Shivesh Parashar"
+      },
+      {
+        "enrollmentNumber": "9923103013",
+        "name": "Tanisha"
+      }
+    ],
+    "facultyMentor": "Krishna Asawa"
+  },
+  {
+    "gid": 51,
+    "students": [
+      {
+        "enrollmentNumber": "9923103076",
+        "name": "divyansh rai"
+      },
+      {
+        "enrollmentNumber": "9923103065",
+        "name": "Aayushi Yadav"
+      },
+      {
+        "enrollmentNumber": "9923103077",
+        "name": "Satyam Kumar"
+      }
+    ],
+    "facultyMentor": "Krishna Asawa"
+  },
+  {
+    "gid": 52,
+    "students": [
+      {
+        "enrollmentNumber": "9923103315",
+        "name": "Jagdish Chaudhary"
+      },
+      {
+        "enrollmentNumber": "9923103306",
+        "name": "Dushyant Chaudhary"
+      },
+      {
+        "enrollmentNumber": "9923103304",
+        "name": "Skand Rai"
+      }
+    ],
+    "facultyMentor": "Madhav Bansal"
+  },
+  {
+    "gid": 53,
+    "students": [
+      {
+        "enrollmentNumber": "9923103073",
+        "name": "Rudransh Pandey"
+      },
+      {
+        "enrollmentNumber": "9923103062",
+        "name": "Ishan Mittal"
+      },
+      {
+        "enrollmentNumber": "9923103064",
+        "name": "Himangi Rawat"
+      }
+    ],
+    "facultyMentor": "Meenu"
+  },
+  {
+    "gid": 54,
+    "students": [
+      {
+        "enrollmentNumber": "9923103045",
+        "name": "Kaushal Kumar Chaudhary"
+      },
+      {
+        "enrollmentNumber": "9923103299",
+        "name": "Divyanshu Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103207",
+        "name": "Piyush Kumar"
+      }
+    ],
+    "facultyMentor": "Meenu"
+  },
+  {
+    "gid": 55,
+    "students": [
+      {
+        "enrollmentNumber": "9923103051",
+        "name": "Sambhavi Pandey"
+      },
+      {
+        "enrollmentNumber": "9923103152",
+        "name": "Om Raj Singh"
+      },
+      {
+        "enrollmentNumber": "9923103265",
+        "name": "Akshat Srivastava"
+      }
+    ],
+    "facultyMentor": "Minal"
+  },
+  {
+    "gid": 56,
+    "students": [
+      {
+        "enrollmentNumber": "9923103033",
+        "name": "Hardik Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103032",
+        "name": "Sahil Srivastava"
+      },
+      {
+        "enrollmentNumber": "9923103037",
+        "name": "Rahul Saha"
+      }
+    ],
+    "facultyMentor": "Minal Tandekar"
+  },
+  {
+    "gid": 57,
+    "students": [
+      {
+        "enrollmentNumber": "9923103234",
+        "name": "Piyush Poddar"
+      },
+      {
+        "enrollmentNumber": "9923103164",
+        "name": "Shaurya Goyal"
+      },
+      {
+        "enrollmentNumber": "9923103226",
+        "name": "Sarthak Tripathi"
+      }
+    ],
+    "facultyMentor": "Mohit"
+  },
+  {
+    "gid": 58,
+    "students": [
+      {
+        "enrollmentNumber": "9923103216",
+        "name": "Divyansh Singh"
+      },
+      {
+        "enrollmentNumber": "9923103217",
+        "name": "Saumya Agarwal"
+      },
+      {
+        "enrollmentNumber": "9923103197",
+        "name": "Arman Gupta"
+      }
+    ],
+    "facultyMentor": "Mohit"
+  },
+  {
+    "gid": 59,
+    "students": [
+      {
+        "enrollmentNumber": "9923103155",
+        "name": "Saksham Kotia"
+      },
+      {
+        "enrollmentNumber": "9923103148",
+        "name": "Devansh Tripathi"
+      },
+      {
+        "enrollmentNumber": "9923103162",
+        "name": "Samyak Jain"
+      }
+    ],
+    "facultyMentor": "Mukesh Saraswat"
+  },
+  {
+    "gid": 60,
+    "students": [
+      {
+        "enrollmentNumber": "9923103102",
+        "name": "Lakshya Agrawal"
+      },
+      {
+        "enrollmentNumber": "9923103097",
+        "name": "Aman Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103107",
+        "name": "Yashdeep"
+      }
+    ],
+    "facultyMentor": "Mukesh Saraswat"
+  },
+  {
+    "gid": 61,
+    "students": [
+      {
+        "enrollmentNumber": "9923103109",
+        "name": "Pratyaksh Krishnna"
+      },
+      {
+        "enrollmentNumber": "9923103100",
+        "name": "Arjun awasthi"
+      },
+      {
+        "enrollmentNumber": "9923103111",
+        "name": "Trish gupta"
+      }
+    ],
+    "facultyMentor": "Mukta goyal"
+  },
+  {
+    "gid": 62,
+    "students": [
+      {
+        "enrollmentNumber": "9923103237",
+        "name": "PRAPTI SINGHAL"
+      },
+      {
+        "enrollmentNumber": "9923103300",
+        "name": "PARTH BATRA"
+      },
+      {
+        "enrollmentNumber": "9923103070",
+        "name": "CHIRAG SINGHAL"
+      }
+    ],
+    "facultyMentor": "Mukta Goyal"
+  },
+  {
+    "gid": 63,
+    "students": [
+      {
+        "enrollmentNumber": "9923103104",
+        "name": "Ansh Tyagi"
+      },
+      {
+        "enrollmentNumber": "9923103063",
+        "name": "Garv Raj"
+      },
+      {
+        "enrollmentNumber": "9923103105",
+        "name": "Sachit Rai"
+      }
+    ],
+    "facultyMentor": "Neeraj Pathak "
+  },
+  {
+    "gid": 64,
+    "students": [
+      {
+        "enrollmentNumber": "9923103098",
+        "name": "Krishna sahu"
+      },
+      {
+        "enrollmentNumber": "9923103121",
+        "name": "Sharad Bahadur Singh"
+      },
+      {
+        "enrollmentNumber": "9923103135",
+        "name": "Gaurav yadav"
+      }
+    ],
+    "facultyMentor": "Neeraj pathak Sir"
+  },
+  {
+    "gid": 65,
+    "students": [
+      {
+        "enrollmentNumber": "9923103285",
+        "name": "Lakshay Khanna"
+      },
+      {
+        "enrollmentNumber": "9923103274",
+        "name": "Harshit Saraswat"
+      },
+      {
+        "enrollmentNumber": "9923103273",
+        "name": "Amandeep Parwal"
+      }
+    ],
+    "facultyMentor": "Niveditta Batra"
+  },
+  {
+    "gid": 66,
+    "students": [
+      {
+        "enrollmentNumber": "9923103320",
+        "name": "AAYUSH GUPTA"
+      },
+      {
+        "enrollmentNumber": "9923103311",
+        "name": "KARTIKEY NEGI"
+      },
+      {
+        "enrollmentNumber": "9923103313",
+        "name": "SHUBH SHARMA"
+      }
+    ],
+    "facultyMentor": "NIVEDITTA BATRA"
+  },
+  {
+    "gid": 67,
+    "students": [
+      {
+        "enrollmentNumber": "9923103020",
+        "name": "Archit Tiwari"
+      },
+      {
+        "enrollmentNumber": "9923103018",
+        "name": "Kavya Malik"
+      },
+      {
+        "enrollmentNumber": "9923103006",
+        "name": "Samya Malik"
+      }
+    ],
+    "facultyMentor": "Noor Mohammad"
+  },
+  {
+    "gid": 68,
+    "students": [
+      {
+        "enrollmentNumber": "9923103184",
+        "name": "Divyaansh Tandon"
+      },
+      {
+        "enrollmentNumber": "9923103174",
+        "name": "Rimjhim Maurya"
+      },
+      {
+        "enrollmentNumber": "9923103302",
+        "name": "Kunal Tak"
+      }
+    ],
+    "facultyMentor": "Pallavi "
+  },
+  {
+    "gid": 69,
+    "students": [
+      {
+        "enrollmentNumber": "9923103099",
+        "name": "Harshit gupta"
+      },
+      {
+        "enrollmentNumber": "9923103112",
+        "name": "Arjun vishnoi"
+      },
+      {
+        "enrollmentNumber": "9923103061",
+        "name": "Pranjal kandpal"
+      }
+    ],
+    "facultyMentor": "Pallavi "
+  },
+  {
+    "gid": 70,
+    "students": [
+      {
+        "enrollmentNumber": "9923103095",
+        "name": "Saksham Varshney"
+      },
+      {
+        "enrollmentNumber": "9923103116",
+        "name": "Aayush Negi"
+      },
+      {
+        "enrollmentNumber": "9923103106",
+        "name": "Yash Vashisht"
+      }
+    ],
+    "facultyMentor": "Pankaj Mishra"
+  },
+  {
+    "gid": 71,
+    "students": [
+      {
+        "enrollmentNumber": "9923103275",
+        "name": "Rudransh Kesarwani"
+      },
+      {
+        "enrollmentNumber": "9923103151",
+        "name": "Swastik Ojha"
+      },
+      {
+        "enrollmentNumber": "9923103159",
+        "name": "Paras Kashyap"
+      }
+    ],
+    "facultyMentor": "Pankaj Mishra"
+  },
+  {
+    "gid": 72,
+    "students": [
+      {
+        "enrollmentNumber": "9923103069",
+        "name": "Nikunj Sethi"
+      },
+      {
+        "enrollmentNumber": "9923103072",
+        "name": "Shrey Sircar"
+      },
+      {
+        "enrollmentNumber": "9923103059",
+        "name": "Yasharth Singh"
+      }
+    ],
+    "facultyMentor": "Prakhar"
+  },
+  {
+    "gid": 73,
+    "students": [
+      {
+        "enrollmentNumber": "9923103247",
+        "name": "Lakshya Pandey"
+      },
+      {
+        "enrollmentNumber": "9923103016",
+        "name": "Urvashi Tanwar"
+      },
+      {
+        "enrollmentNumber": "9923103005",
+        "name": "Aarushi Tyagi"
+      }
+    ],
+    "facultyMentor": "Prakhar"
+  },
+  {
+    "gid": 74,
+    "students": [
+      {
+        "enrollmentNumber": "9923103194",
+        "name": "Aditya Aggarwal"
+      },
+      {
+        "enrollmentNumber": "9923103212",
+        "name": "Mani Shankar Pandey"
+      },
+      {
+        "enrollmentNumber": "9923103211",
+        "name": "Ayush kumar Tiwari"
+      }
+    ],
+    "facultyMentor": "Preeti Mittal"
+  },
+  {
+    "gid": 75,
+    "students": [
+      {
+        "enrollmentNumber": "9923103081",
+        "name": "Aadhya Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103066",
+        "name": "Tanishka Tyagi"
+      },
+      {
+        "enrollmentNumber": "9923103114",
+        "name": "Atharva"
+      }
+    ],
+    "facultyMentor": "Rajani"
+  },
+  {
+    "gid": 76,
+    "students": [
+      {
+        "enrollmentNumber": "9923103041",
+        "name": "Isha Chawla"
+      },
+      {
+        "enrollmentNumber": "9923103053",
+        "name": "Ishaan Srivastava"
+      },
+      {
+        "enrollmentNumber": "9923103166",
+        "name": "Krishna Aashutosh Sharma"
+      }
+    ],
+    "facultyMentor": "Rajani"
+  },
+  {
+    "gid": 77,
+    "students": [
+      {
+        "enrollmentNumber": "9923103082",
+        "name": "Rohan Gupta"
+      },
+      {
+        "enrollmentNumber": "9923103068",
+        "name": "Himanshu Rawat"
+      },
+      {
+        "enrollmentNumber": "9923103248",
+        "name": "Aditi Kansal"
+      }
+    ],
+    "facultyMentor": "Rajshree Singh"
+  },
+  {
+    "gid": 78,
+    "students": [
+      {
+        "enrollmentNumber": "9923103028",
+        "name": "Aditya Khandelia"
+      },
+      {
+        "enrollmentNumber": "9923103060",
+        "name": "Sheikh Abdullah"
+      },
+      {
+        "enrollmentNumber": "9923103202",
+        "name": "Kushagra Singh"
+      }
+    ],
+    "facultyMentor": "Rajshree Singh"
+  },
+  {
+    "gid": 79,
+    "students": [
+      {
+        "enrollmentNumber": "9923103278",
+        "name": "Shristy Agrawal"
+      },
+      {
+        "enrollmentNumber": "9923103280",
+        "name": "Shivanshi Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103289",
+        "name": "Divya Srivastava"
+      }
+    ],
+    "facultyMentor": "Rashmi Kushwah"
+  },
+  {
+    "gid": 80,
+    "students": [
+      {
+        "enrollmentNumber": "9923103232",
+        "name": "Deepanshu Khurana"
+      },
+      {
+        "enrollmentNumber": "9923103241",
+        "name": "Samradhi Kaushal"
+      },
+      {
+        "enrollmentNumber": "9923103240",
+        "name": "Mudit Rastogi"
+      }
+    ],
+    "facultyMentor": "Rashmi Kushwaha"
+  },
+  {
+    "gid": 81,
+    "students": [
+      {
+        "enrollmentNumber": "9923103024",
+        "name": "Vasu Jain"
+      },
+      {
+        "enrollmentNumber": "9923103023",
+        "name": "Ansh Upadhyay"
+      },
+      {
+        "enrollmentNumber": "9923103035",
+        "name": "Anish Sethi"
+      }
+    ],
+    "facultyMentor": "Rishabh Negi"
+  },
+  {
+    "gid": 82,
+    "students": [
+      {
+        "enrollmentNumber": "9923103096",
+        "name": "ASHIRWAD SINGH"
+      },
+      {
+        "enrollmentNumber": "9923103091",
+        "name": "ROHANK KHATRI"
+      },
+      {
+        "enrollmentNumber": "9923103281",
+        "name": "ADITYA BANSODE"
+      }
+    ],
+    "facultyMentor": "Rishabh Negi"
+  },
+  {
+    "gid": 83,
+    "students": [
+      {
+        "enrollmentNumber": "9923103171",
+        "name": "Prateek"
+      },
+      {
+        "enrollmentNumber": "9923103186",
+        "name": "Aditya rana"
+      },
+      {
+        "enrollmentNumber": "9923103133",
+        "name": "Risabh tripathi"
+      }
+    ],
+    "facultyMentor": "Ruchika bala"
+  },
+  {
+    "gid": 84,
+    "students": [
+      {
+        "enrollmentNumber": "9923103011",
+        "name": "MOHD TARIQ SAMI"
+      },
+      {
+        "enrollmentNumber": "9923103012",
+        "name": "MOHAMMAD KAIF"
+      },
+      {
+        "enrollmentNumber": "9923103009",
+        "name": "NISHANT KUMAR"
+      }
+    ],
+    "facultyMentor": "Ruchika Bala"
+  },
+  {
+    "gid": 85,
+    "students": [
+      {
+        "enrollmentNumber": "9923103168",
+        "name": "Harshvardhan Singh"
+      },
+      {
+        "enrollmentNumber": "9923103187",
+        "name": "Ayush Raj"
+      },
+      {
+        "enrollmentNumber": "9923103163",
+        "name": "Daksh Sharma"
+      }
+    ],
+    "facultyMentor": "Ruchin "
+  },
+  {
+    "gid": 86,
+    "students": [
+      {
+        "enrollmentNumber": "9923103103",
+        "name": "Sambhav Saxena"
+      },
+      {
+        "enrollmentNumber": "9923103088",
+        "name": "Ojaswi"
+      },
+      {
+        "enrollmentNumber": "9923103101",
+        "name": "Samarth Gupta"
+      }
+    ],
+    "facultyMentor": "Ruchin "
+  },
+  {
+    "gid": 87,
+    "students": [
+      {
+        "enrollmentNumber": "9923103218",
+        "name": "Om Shukla"
+      },
+      {
+        "enrollmentNumber": "9923103119",
+        "name": "Divyansh Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103242",
+        "name": "Mohit Yadav"
+      }
+    ],
+    "facultyMentor": "Santosh"
+  },
+  {
+    "gid": 88,
+    "students": [
+      {
+        "enrollmentNumber": "9923103293",
+        "name": "Ananya Goel"
+      },
+      {
+        "enrollmentNumber": "9923103283",
+        "name": "Swastik Prakash"
+      },
+      {
+        "enrollmentNumber": "9923103282",
+        "name": "Devansh Tomar"
+      }
+    ],
+    "facultyMentor": "Santosh Kumar Ray"
+  },
+  {
+    "gid": 89,
+    "students": [
+      {
+        "enrollmentNumber": "9923103267",
+        "name": "Krrish Sehgal"
+      },
+      {
+        "enrollmentNumber": "9923103272",
+        "name": "Syed Ali Abbas"
+      },
+      {
+        "enrollmentNumber": "9923103263",
+        "name": "Atul Sharma"
+      }
+    ],
+    "facultyMentor": "Satya Prakash Patel"
+  },
+  {
+    "gid": 90,
+    "students": [
+      {
+        "enrollmentNumber": "9923103131",
+        "name": "SOURISH MUSIB"
+      },
+      {
+        "enrollmentNumber": "9923103143",
+        "name": "NANDINI MITTAL"
+      },
+      {
+        "enrollmentNumber": "9923103120",
+        "name": "MITANSHU FINAVIYA"
+      }
+    ],
+    "facultyMentor": "Shagun Gupta"
+  },
+  {
+    "gid": 91,
+    "students": [
+      {
+        "enrollmentNumber": "9923103031",
+        "name": "Krishna agarwal"
+      },
+      {
+        "enrollmentNumber": "9923103043",
+        "name": "Aadi jain"
+      },
+      {
+        "enrollmentNumber": "9923103004",
+        "name": "Shivanshi singh"
+      }
+    ],
+    "facultyMentor": "Shailendra Pal"
+  },
+  {
+    "gid": 92,
+    "students": [
+      {
+        "enrollmentNumber": "9923103179",
+        "name": "Kartikeya Singh"
+      },
+      {
+        "enrollmentNumber": "9923103180",
+        "name": "Devansh Seth"
+      },
+      {
+        "enrollmentNumber": "9923103161",
+        "name": "Vishwas Srivastava"
+      }
+    ],
+    "facultyMentor": "Shailendra Pal"
+  },
+  {
+    "gid": 93,
+    "students": [
+      {
+        "enrollmentNumber": "9923103205",
+        "name": "Parth Jakhar"
+      },
+      {
+        "enrollmentNumber": "9923103192",
+        "name": "Rudra Pratap Nain"
+      },
+      {
+        "enrollmentNumber": "9923103206",
+        "name": "Anuj Kumar Mohanty"
+      }
+    ],
+    "facultyMentor": "Shariq"
+  },
+  {
+    "gid": 94,
+    "students": [
+      {
+        "enrollmentNumber": "9923103142",
+        "name": "Saksham chawla"
+      },
+      {
+        "enrollmentNumber": "9923103126",
+        "name": "Mrigank Rai"
+      },
+      {
+        "enrollmentNumber": "9923103125",
+        "name": "Aditya Kumar Gupta"
+      }
+    ],
+    "facultyMentor": "Shariq"
+  },
+  {
+    "gid": 95,
+    "students": [
+      {
+        "enrollmentNumber": "9923103182",
+        "name": "Rashi Dwivedi"
+      },
+      {
+        "enrollmentNumber": "9923103178",
+        "name": "Sachin Mishra"
+      },
+      {
+        "enrollmentNumber": "9923103190",
+        "name": "Janvi Gupta"
+      }
+    ],
+    "facultyMentor": "Shikha Mehta"
+  },
+  {
+    "gid": 96,
+    "students": [
+      {
+        "enrollmentNumber": "9923103036",
+        "name": "VANSH CHAUDHARY"
+      },
+      {
+        "enrollmentNumber": "9923103049",
+        "name": "SHAURYA RAJPUT"
+      },
+      {
+        "enrollmentNumber": "9923103029",
+        "name": "ADITYA RAUTELA"
+      }
+    ],
+    "facultyMentor": "SHIKHA MEHTA "
+  },
+  {
+    "gid": 97,
+    "students": [
+      {
+        "enrollmentNumber": "9923103321",
+        "name": "Advika"
+      },
+      {
+        "enrollmentNumber": "9923103309",
+        "name": "Sara Saini"
+      },
+      {
+        "enrollmentNumber": "9923103305",
+        "name": "Aagam Jain"
+      }
+    ],
+    "facultyMentor": "Shruti Gupta"
+  },
+  {
+    "gid": 98,
+    "students": [
+      {
+        "enrollmentNumber": "9923103087",
+        "name": "Advitiya Prakash"
+      },
+      {
+        "enrollmentNumber": "9923103067",
+        "name": "Adit Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103113",
+        "name": "Jagriti Iyer"
+      }
+    ],
+    "facultyMentor": "Shruti Gupta "
+  },
+  {
+    "gid": 99,
+    "students": [
+      {
+        "enrollmentNumber": "9923103092",
+        "name": "Prachi Yadav"
+      },
+      {
+        "enrollmentNumber": "9923103110",
+        "name": "Sneha Sharma"
+      },
+      {
+        "enrollmentNumber": "9923103115",
+        "name": "Mayank Puranprakash Rawal"
+      }
+    ],
+    "facultyMentor": "Twinkle"
+  },
+  {
+    "gid": 100,
+    "students": [
+      {
+        "enrollmentNumber": "9923103054",
+        "name": "Sanyam Parashar"
+      },
+      {
+        "enrollmentNumber": "9923103193",
+        "name": "Ayush Singh"
+      },
+      {
+        "enrollmentNumber": "9923103196",
+        "name": "uttkarsh thakur"
+      }
+    ],
+    "facultyMentor": "Twinkle"
+  },
+  {
+    "gid": 101,
+    "students": [
+      {
+        "enrollmentNumber": "9923103181",
+        "name": "Prince Agrawal"
+      },
+      {
+        "enrollmentNumber": "9923103185",
+        "name": "Raghav Bhargava"
+      },
+      {
+        "enrollmentNumber": "9923103137",
+        "name": "Divyansh Dutt Sharma"
+      }
+    ],
+    "facultyMentor": "Vicky Gupta"
+  },
+  {
+    "gid": 102,
+    "students": [
+      {
+        "enrollmentNumber": "9923103264",
+        "name": "Varun Dubey"
+      },
+      {
+        "enrollmentNumber": "9923103220",
+        "name": "Harshit Yadav"
+      },
+      {
+        "enrollmentNumber": "9923103262",
+        "name": "Vishal Gangwar"
+      }
+    ],
+    "facultyMentor": "Vikas Sharma"
+  },
+  {
+    "gid": 103,
+    "students": [
+      {
+        "enrollmentNumber": "9923103084",
+        "name": "Rochak Kumar Jain"
+      },
+      {
+        "enrollmentNumber": "9923103086",
+        "name": "Rajat Dagar"
+      },
+      {
+        "enrollmentNumber": "9923103230",
+        "name": "Lakshay Gupta"
+      }
+    ],
+    "facultyMentor": "Vikash Sharma"
+  }
+]
